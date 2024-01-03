@@ -1,0 +1,1 @@
+ C:\\Users\\Shreyansh\ Gupta\\StudioProjects\\expense_tracker\\.dart_tool\\flutter_build\\6fac214aa7b106f5720a6f94089b74d2\\native_assets.yaml: 
